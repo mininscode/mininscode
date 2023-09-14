@@ -1,7 +1,6 @@
 - 👋 Hi, I’m Anton Kazakov
-- 👀 I’m interested in backend development
-- 🌱 I’m currently learning Python
-- 💞️ I’m looking to collaborate on Python projects
+- 👀 I’m fullstack developer
+- 💞️ I’m looking to collaborate on IT projects
 - 📫 How to reach me on facebook & twitter - by username @mininscode
 
 <!---
