@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Anton Kazakov
-- 👀 I’m fullstack developer
+- 🧑🏻‍💻 I’m fullstack developer
 - 💞️ I’m looking to collaborate on IT projects
 - 📫 How to reach me on facebook & twitter - by username @mininscode
 
